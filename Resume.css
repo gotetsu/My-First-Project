@@ -1,5 +1,58 @@
 h1 {
 text-align: center;
 color: black;
+font-size: 250%
+font-family: 'Roboto', sans-serif;
 
 }
+.Personal {
+font-size: 150%;
+text-align: left;
+font-family: 'Roboto', sans-serif;
+}
+
+nav {
+font-size: small;
+font-family: 'Roboto', sans-serif;
+}
+
+.about {
+text-align: center;
+font-size: 150%;
+font-family: 'Roboto', sans-serif;
+}
+
+#EMPLOYMENT {
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#EDUCATION {
+
+    text-align: center;
+    font-size: 150;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    font-size: 1.3em;
+    max-width: 1200px;
+    margin: 40px auto;
+  }
