@@ -1,38 +1,96 @@
 h1 {
 text-align: center;
 color: black;
-font-size: 250%
+font-size: 150%
 font-family: 'Roboto', sans-serif;
 
 }
+
 .Personal {
+    padding: 2%;
+    text-align:left;
+    font-size: 150%;
+    font-family: 'Roboto', sans-serif;
+  
+
+
+}
+img {
+image-rendering: crisp-edges;
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 3px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+ 
+
+}
+.EXPERIENCE {
+    padding: 5%;
+    text-align:center;
 font-size: 150%;
-text-align: left;
 font-family: 'Roboto', sans-serif;
 }
+.charla {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2;
+    width: 800px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+    min-width: width 600px;
+    text-indent: 50px
+    
 
+}
 nav {
-font-size: small;
+    
+font-size: medium;
 font-family: 'Roboto', sans-serif;
+text-align:left;
+min-width: width 600px;
+text-indent: 10px
+
+
 }
 
 .about {
-text-align: center;
+    padding: 2%;
+    min-width:600px;
+
+text-align:center;
 font-size: 150%;
 font-family: 'Roboto', sans-serif;
 }
 
 #EMPLOYMENT {
-    text-align: center;
+    padding: 2%;
+    text-align:center;
     font-size: 150%;
     font-family: 'Roboto', sans-serif;
 }
 
 #EDUCATION {
-
-    text-align: center;
-    font-size: 150;
+    padding: 2%;
+    text-align:center;
+    font-size: 150%
     font-family: 'Roboto', sans-serif;
+  
+
+}
+
+footer{
+    padding: 8%;
+    text-align: right;
+    margin-left: auto;
+
+
+
 }
 
 
